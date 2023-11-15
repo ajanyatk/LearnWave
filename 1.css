@@ -1,0 +1,263 @@
+c12{
+    background-color: blue;
+}
+.c1{
+    background-color:black;
+}
+.c2{
+    padding: 3px;
+    padding-left: 40px;
+}
+.c3{
+    padding-left: 280px;
+    text-decoration: white;
+}
+.c4{
+    color: white;
+}
+.fbtn{
+    background: linear-gradient(95.04deg,#ffaa3f .84%,#f35b04 97.35%);
+    width: 100px; color: solid black;
+}
+.color{
+    padding-bottom: 20px;
+    padding-right: 800px;
+    color: black;
+    text-align: center;
+    font-size: 75px;
+    font-weight: 640px;
+}   
+.align{
+    padding-right: 800px;
+    text-align: justify;
+    max-width: 1500px;
+    font-family: poppins;
+    color: black;
+    font-weight: 500px;}
+.head{
+    color: white;
+    padding-left: 70px;
+    font-size: 65px;
+    font-weight: 700;
+}
+.head1{
+    color: #80d9f7;
+    padding-left: 70px;
+    font-size: 42px;
+    font-weight: 600;
+
+}
+.p{
+    text-align: justify;
+    padding-left: 70px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.p1{
+    text-align: justify;
+    font-size: 18px;
+    color: rgb(51, 51, 51);
+}
+.fbutton{
+    background: linear-gradient(95.04deg,#ffaa3f .84%,#f35b04 97.35%);
+    box-shadow:0 4px 8px rgba(0,0,0,.25)!important;
+};
+    
+
+.futton1{
+    background-color: white;
+}
+.fbutton1:hover{
+    color: #80d9f7;
+}
+.b{
+    padding-left: 70px;
+
+}
+.c6{
+    text-align: center;
+    color: #0d3c84;
+    font-size: 35px;
+    
+    
+}
+.mydiv{
+  gap:0px;
+}
+.btn1{
+    background: #FF5711;
+    box-shadow:0 4px 8px rgba(0,0,0,.25)!important;
+}
+.btn2{
+    text-align: justify;
+    color:  #0d3c84;
+    
+}
+.c7{
+    background-color: aliceblue;
+    
+}
+.c8{
+    padding-top: 0px;
+}
+.c9{
+    padding: 20px;
+    text-align: justify;
+}
+.c91{
+    padding: 40px;
+    
+}
+.c10{
+    padding-left: 70px;
+}
+.c11{
+ 
+    background: #0d3c84;
+    padding-top: 80px;
+
+}
+
+.c12{
+color: white;
+font-size: 16px;
+text-decoration: none;
+list-style-type: none;
+font-weight: 300;
+}
+.c13{
+    padding-left: 80px;
+    padding-top: 40px;
+    
+}
+.c14{
+    padding-left: 80px;
+}
+.c16{
+    text-decoration-line: underline;
+    text-underline-offset: 0.75em;
+}
+.c18{
+     padding: 10px;
+     text-align: center;
+     color: white;
+     font-weight: 300;
+}
+.c19{
+    padding-bottom: 100px;
+}
+.c17{
+    padding-left: 0px;
+}
+.c20{
+   padding-left: 40px;
+}
+.c21{
+    padding-bottom: 20px;
+}
+.c22{
+    background-image: url(8.png);
+    
+}
+.c0{
+    padding-left: 20px;
+    color: #80d9f7;
+}
+.c23{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.c25{
+    align-content: center ;
+}
+
+body{
+    /* font-family: Roboto; */
+    background-color: white;
+ 
+ }
+ .animation{
+     height: 50px;
+     overflow: hidden;
+     padding-left: 55px;
+     font-size: 40px;
+     font-weight: 400;
+     color: #80d9f7;
+
+ 
+ 
+ }
+ .container{
+     color:white;
+     text-transform: uppercase;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: white;
+     padding-left: 70px;
+     font-size: 65px;
+     font-weight: 700;
+}
+ 
+ 
+ h4{
+     text-shadow: 0 0 7px rgb(255, 255, 255,.3) 0 0 3px rgb(255, 255, 255,.3);
+ }
+ .animation > div > div {
+     padding: 0.25rem 0.75rem;
+     height: 2.81rem;
+     margin-bottom: 2.81rem;
+     display: inline-block;
+ 
+ }
+ .animation div:first-child{
+     animation: text-animation 8s infinite;
+ }
+ @keyframes text-animation{
+     0%{margin-top: 0;}
+     10%{margin-top: 0;}
+     20%{margin-top: -5.62rem;}
+     30%{margin-top: -5.62rem;}
+     40%{margin-top: -11.24rem;}
+     60%{margin-top: -11.24rem;}
+     70%{margin-top: -5.62rem;}
+     80%{margin-top: -5.62rem;}
+     90%{margin-top: 0;}
+     100%{margin-top: 0;}
+ }
+ .wrapper {
+      
+      color: #fff;
+      font-size: 38px;
+      font-weight: 400;
+      background: linear-gradient(to right,#ffaa3f 40%, #4b565c 20%, #0d3c84 70%);
+      background-size: auto auto;
+      background-clip: border-box;
+      background-size: 200% auto;
+      color: #fff;
+      background-clip: text;
+      text-fill-color: transparent;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: textclip 2s linear infinite;
+      display: inline-block;
+      text-align: center;
+    }
+  
+  
+  @keyframes textclip {
+    to {
+      background-position: 150% center;
+    }
+  }
+  .ce{
+    text-align: center;
+    padding-left: 400px;
+    
+  }
+  .head3{
+    text-align: center;
+  }
+
+
+ 
